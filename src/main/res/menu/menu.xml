@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/functionMenu"
+        android:title="其他图像处理功能">
+        <menu>
+            <item
+                android:id="@+id/m1"
+                android:title="①调整亮度与对比度"></item>
+            <item
+                android:id="@+id/m2"
+                android:title="②灰度化并降低对比度"></item>
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/helpMenu"
+        android:title="单效果处理使用说明">
+    </item>
+</menu>
